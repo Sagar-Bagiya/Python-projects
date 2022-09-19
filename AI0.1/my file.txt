@@ -1,0 +1,30 @@
+what is your name
+my name is jarvis
+
+what is your master name
+my master name is sagar
+
+
+what is my brother name
+your brother name is nitin
+
+what is my mother name
+your mother name is likhi, oh! sorry, she's name is laxmiben
+
+what is my father name
+your father name is maldebhai
+
+what is my grandfather name or dada name
+your grandfather name is mohanbhai
+
+what is my grandmother name or dada name
+your grandmother name is deviben
+
+what is my friend name
+sir, you have many friend!,one of them is aniket
+
+what is my little friend name
+sir,your little friend name is jayesh!
+
+what is my friend name
+sir,your little friend name is devdash!
